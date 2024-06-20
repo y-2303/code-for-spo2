@@ -1,6 +1,6 @@
 # Blood_Oxygen_Saturation_Estimation_From_Fingertip_Videos_Using_Residual_Convolutional_Neural_Network
 
-Official repository of "Efficient Deep Learning-based Estimation of the Vital Signs on Smartphones".
+Official repository of "Blood_Oxygen_Saturation_Estimation_From_Fingertip_Videos_Using_Residual_Convolutional_Neural_Network".
 
 The repository contains the code, recommended datasets MTHS and BIDMC you need to get from the link ([https://github.com/MahdiFarvardin/MEDVSE](https://github.com/MahdiFarvardin/MEDVSE/tree/main/MTHS))
 
