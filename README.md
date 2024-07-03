@@ -6,8 +6,6 @@ The repository contains the code, recommended datasets MTHS and BIDMC you need t
 
 
 ## Checklist
-- [ ] MTHS dataset
-- [ ] Finger Videos (New!)
 - [x] Code
 - [ ] Webpage
 
