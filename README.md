@@ -2,8 +2,6 @@
 
 Official repository of "Blood Oxygen Saturation Estimation From Fingertip Videos Using Residual Convolutional Neural Network".
 
-#The repository contains the code, recommended datasets MTHS and BIDMC you need to get from the link ([https://github.com/MahdiFarvardin/MEDVSE]##
-
 
 ## Checklist
 - [x] Code
