@@ -15,9 +15,9 @@ Official repository of "Blood Oxygen Saturation Estimation From Fingertip Videos
 
 Before running the code, ensure that you have the following prerequisites installed:
 
--- Python 3.x
--- PyTorch
--- Nvidia CUDA toolkit and cuDNN (for GPU acceleration)
+- Python 3.x
+- PyTorch
+- Nvidia CUDA toolkit and cuDNN (for GPU acceleration)
 
 ## Dataset
 
