@@ -11,7 +11,7 @@ Official repository of "Blood Oxygen Saturation Estimation From Fingertip Videos
 
 ## Code
 
-## Setup
+- Setup
 
 Before running the code, ensure that you have the following prerequisites installed:
 
